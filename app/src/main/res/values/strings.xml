@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="activity_detail">Movie Detail</string>
+    <string name="error_while_retreiving">Error Occurred Please try again later</string>
+    <string name="no_movies">No movies found</string>
+
+    <!-- Label names -->
+
+    <string name="label_title">Title</string>
+    <string name="label_year">Year</string>
+    <string name="label_runtime">Movie Runtime</string>
+    <string name="label_country">Country</string>
+    <string name="label_language">Language</string>
+    <string name="label_released_on">Released On</string>
+    <string name="label_writer">Writer</string>
+    <string name="label_actors">Actors</string>
+    <string name="label_awards">Awards</string>
+</resources>
